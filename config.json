@@ -1,0 +1,8 @@
+{
+    "login_username": "administrator",
+    "login_password": "Yourpass",
+    "sntp_server_1": "pool.ntp.org",
+    "sntp_server_2": "time.google.com",
+    "timezone": "Asia/Tehran",
+    "enable_sntp": true
+}
